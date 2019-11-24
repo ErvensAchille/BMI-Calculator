@@ -1,5 +1,5 @@
-The Goal of this was to create a full stack Nipsey Hussle fan page app. It can create replace update and delete. Incorporated user logins as well. 
-
+The goal of this project was to create a BMI calculator using mongoDB and Node JS. Explored CRUD principles in order to complete project.
+![alt tag](bmi.png)
 
 ## Installation
 
